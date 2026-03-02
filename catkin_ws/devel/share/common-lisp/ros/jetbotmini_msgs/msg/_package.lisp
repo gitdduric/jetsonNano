@@ -1,0 +1,31 @@
+(cl:defpackage jetbotmini_msgs-msg
+  (:use )
+  (:export
+   "<ARM>"
+   "ARM"
+   "<BATTERY>"
+   "BATTERY"
+   "<EDITION>"
+   "EDITION"
+   "<GENERAL>"
+   "GENERAL"
+   "<IMAGE_MSG>"
+   "IMAGE_MSG"
+   "<JOINT>"
+   "JOINT"
+   "<JOYSTATE>"
+   "JOYSTATE"
+   "<LASERAVOID>"
+   "LASERAVOID"
+   "<PWMSERVO>"
+   "PWMSERVO"
+   "<PATROLWARNING>"
+   "PATROLWARNING"
+   "<POINTARRAY>"
+   "POINTARRAY"
+   "<POSITION>"
+   "POSITION"
+   "<SENSORSTATE>"
+   "SENSORSTATE"
+  ))
+

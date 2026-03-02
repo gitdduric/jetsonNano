@@ -1,0 +1,14 @@
+\subsubsection usage Usage
+\verbatim
+<node name="TrackerDetect" pkg="jetbotmini_color_tracker" type="TrackerDetect">
+  <param name="speed" type="double" value="0.5" />
+  <param name="turn" type="double" value="0.3" />
+  <param name="Hmin" type="int" value="0" />
+  <param name="Smin" type="int" value="80" />
+  <param name="Vmin" type="int" value="179" />
+  <param name="Hmax" type="int" value="10" />
+  <param name="Smax" type="int" value="255" />
+  <param name="Vmax" type="int" value="255" />
+</node>
+\endverbatim
+

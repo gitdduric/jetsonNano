@@ -1,0 +1,14 @@
+\subsubsection usage Usage
+\verbatim
+<node name="LineDetect" pkg="jetbotmini_color" type="LineDetect">
+  <param name="speed" type="double" value="0.5" />
+  <param name="turn" type="double" value="0.4" />
+  <param name="Hmin" type="int" value="156" />
+  <param name="Smin" type="int" value="43" />
+  <param name="Vmin" type="int" value="46" />
+  <param name="Hmax" type="int" value="180" />
+  <param name="Smax" type="int" value="255" />
+  <param name="Vmax" type="int" value="255" />
+</node>
+\endverbatim
+

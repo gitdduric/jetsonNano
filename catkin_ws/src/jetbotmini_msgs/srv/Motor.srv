@@ -1,0 +1,6 @@
+#request
+float32 rightspeed
+float32 leftspeed
+---
+#response
+bool result

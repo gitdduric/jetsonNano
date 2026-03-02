@@ -1,0 +1,5 @@
+#request
+int32 ledgree
+---
+#response
+bool result

@@ -1,0 +1,6 @@
+#request
+int32 servoid
+int32 angle
+---
+#response
+bool result

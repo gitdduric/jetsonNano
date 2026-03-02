@@ -1,0 +1,8 @@
+prefix=/home/jetson/workspace/catkin_ws/install
+
+Name: jetbotmini_msgs
+Description: Description of jetbotmini_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rosmsg rospy message_runtime

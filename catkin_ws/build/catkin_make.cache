@@ -1,0 +1,2 @@
+gscam:jetbot_ros:jetbotmini_msgs:jetson_nano_csi_cam_ros:opencv_apps:ros_deep_learning
+-DCATKIN_DEVEL_PREFIX=/home/jetson/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/workspace/catkin_ws/install -G Unix Makefiles
